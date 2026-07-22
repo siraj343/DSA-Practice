@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void sortColors(vector<int> &arr ){
+void sortColors(vector<int> &arr1 ){
     int n = arr.size();
      int low = 0;
      int mid = 0;
